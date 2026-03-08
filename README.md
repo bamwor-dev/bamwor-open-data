@@ -58,7 +58,7 @@ Browse the full interactive rankings at:
 Clone this repo:
 
 ```bash
-git clone https://github.com/ismaeldarosa19/bamwor-open-data.git
+git clone https://github.com/bamwor-dev/bamwor-open-data.git
 ```
 
 Or download individual CSVs directly from the [datasets/](datasets/) folder.
