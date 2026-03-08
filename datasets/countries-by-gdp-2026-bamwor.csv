@@ -1,0 +1,230 @@
+# Countries by GDP PPP (USD) — 2026
+# Source: Bamwor World Encyclopedia — https://bamwor.com/en/countries-by-gdp
+# Data origin: CIA World Factbook
+# License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+# Attribution: "Data from Bamwor (bamwor.com)" required when using this dataset
+# Generated: 2026-03-08
+# Total countries: 221
+#
+Rank,Country,ISO Code,Region,GDP PPP (USD),Year,Source URL
+1,China,CN,East and Southeast Asia,33598000000000,,https://bamwor.com/en/countries/china
+2,United States,US,North America,25676000000000,,https://bamwor.com/en/countries/united-states
+3,India,IN,South Asia,14244000000000,,https://bamwor.com/en/countries/india
+4,Russia,RU,Central Asia,6089000000000,,https://bamwor.com/en/countries/russia
+5,Japan,JP,East and Southeast Asia,5715000000000,,https://bamwor.com/en/countries/japan
+6,Germany,DE,Europe,5247000000000,,https://bamwor.com/en/countries/germany
+7,Brazil,BR,South America,4165000000000,,https://bamwor.com/en/countries/brazil
+8,Indonesia,ID,East and Southeast Asia,4102000000000.0005,,https://bamwor.com/en/countries/indonesia
+9,France,FR,Europe,3732000000000,,https://bamwor.com/en/countries/france
+10,United Kingdom,GB,Europe,3636000000000,,https://bamwor.com/en/countries/united-kingdom
+11,Italy,IT,Europe,3133000000000,,https://bamwor.com/en/countries/italy
+12,Turkey,TR,Middle East,3018000000000,,https://bamwor.com/en/countries/turkey
+13,Mexico,MX,North America,2883000000000,,https://bamwor.com/en/countries/mexico
+14,South Korea,KR,East and Southeast Asia,2607000000000,,https://bamwor.com/en/countries/south-korea
+15,Spain,ES,Europe,2361000000000,,https://bamwor.com/en/countries/spain
+16,Canada,CA,North America,2341000000000,,https://bamwor.com/en/countries/canada
+17,Saudi Arabia,SA,Middle East,2213000000000,,https://bamwor.com/en/countries/saudi-arabia
+18,Egypt,EG,Africa,1958000000000,,https://bamwor.com/en/countries/egypt
+19,Taiwan,TW,East and Southeast Asia,1743000000000,,https://bamwor.com/en/countries/taiwan
+20,Poland,PL,Europe,1649000000000,,https://bamwor.com/en/countries/poland
+21,Australia,AU,Australia-Oceania,1635000000000,,https://bamwor.com/en/countries/australia
+22,Thailand,TH,East and Southeast Asia,1558000000000,,https://bamwor.com/en/countries/thailand
+23,Iran,IR,Middle East,1486000000000,,https://bamwor.com/en/countries/iran
+24,Bangladesh,BD,South Asia,1473000000000,,https://bamwor.com/en/countries/bangladesh
+25,Vietnam,VN,East and Southeast Asia,1456000000000,,https://bamwor.com/en/countries/vietnam
+26,Pakistan,PK,South Asia,1390000000000,,https://bamwor.com/en/countries/pakistan
+27,Nigeria,NG,Africa,1318000000000,,https://bamwor.com/en/countries/nigeria
+28,Netherlands,NL,Europe,1276000000000,,https://bamwor.com/en/countries/netherlands
+29,Argentina,AR,South America,1213000000000,,https://bamwor.com/en/countries/argentina
+30,Malaysia,MY,East and Southeast Asia,1212000000000,,https://bamwor.com/en/countries/malaysia
+31,Philippines,PH,East and Southeast Asia,1202000000000,,https://bamwor.com/en/countries/philippines
+32,Colombia,CO,South America,978592000000,,https://bamwor.com/en/countries/colombia
+33,South Africa,ZA,Africa,870420000000,,https://bamwor.com/en/countries/south-africa
+34,Singapore,SG,East and Southeast Asia,800304000000,,https://bamwor.com/en/countries/singapore
+35,Romania,RO,Europe,774376000000,,https://bamwor.com/en/countries/romania
+36,Belgium,BE,Europe,749229000000,,https://bamwor.com/en/countries/belgium
+37,United Arab Emirates,AE,Middle East,745994000000,,https://bamwor.com/en/countries/united-arab-emirates
+38,Switzerland,CH,Europe,741035000000,,https://bamwor.com/en/countries/switzerland
+39,Kazakhstan,KZ,Central Asia,739385000000,,https://bamwor.com/en/countries/kazakhstan
+40,Algeria,DZ,Africa,722912000000,,https://bamwor.com/en/countries/algeria
+41,Sweden,SE,Europe,668628000000,,https://bamwor.com/en/countries/sweden
+42,Ireland,IE,Europe,620544000000,,https://bamwor.com/en/countries/ireland
+43,Chile,CL,South America,596556000000,,https://bamwor.com/en/countries/chile
+44,Iraq,IQ,Middle East,585887000000,,https://bamwor.com/en/countries/iraq
+45,Austria,AT,Europe,581131000000,,https://bamwor.com/en/countries/austria
+46,Ukraine,UA,Europe,577583000000,,https://bamwor.com/en/countries/ukraine
+47,Peru,PE,South America,535910999999.9999,,https://bamwor.com/en/countries/peru
+48,Czechia,CZ,Europe,521928000000,,https://bamwor.com/en/countries/czechia
+49,Norway,NO,Europe,507680000000,,https://bamwor.com/en/countries/norway
+50,Hong Kong,HK,East and Southeast Asia,497880000000,,https://bamwor.com/en/countries/hong-kong
+51,Israel,IL,Middle East,472177000000,,https://bamwor.com/en/countries/israel
+52,Portugal,PT,Europe,448226000000,,https://bamwor.com/en/countries/portugal
+53,Denmark,DK,Europe,440558000000,,https://bamwor.com/en/countries/denmark
+54,Greece,GR,Europe,392205000000,,https://bamwor.com/en/countries/greece
+55,Hungary,HU,Europe,389207000000,,https://bamwor.com/en/countries/hungary
+56,Ethiopia,ET,Africa,380895000000,,https://bamwor.com/en/countries/ethiopia
+57,Uzbekistan,UZ,Central Asia,379989000000,,https://bamwor.com/en/countries/uzbekistan
+58,Morocco,MA,Africa,350594000000,,https://bamwor.com/en/countries/morocco
+59,Kenya,KE,Africa,328632000000,,https://bamwor.com/en/countries/kenya
+60,Qatar,QA,Middle East,317064000000,,https://bamwor.com/en/countries/qatar
+61,Finland,FI,Europe,313591000000,,https://bamwor.com/en/countries/finland
+62,Sri Lanka,LK,South Asia,301407000000,,https://bamwor.com/en/countries/sri-lanka
+63,Burma,MM,East and Southeast Asia,287559000000,,https://bamwor.com/en/countries/burma
+64,Angola,AO,Africa,278239000000,,https://bamwor.com/en/countries/angola
+65,The Dominican,DO,Central America and Caribbean,276884000000,,https://bamwor.com/en/countries/the-dominican
+66,Belarus,BY,Europe,265220000000,,https://bamwor.com/en/countries/belarus
+67,New Zealand,NZ,Australia-Oceania,257117000000,,https://bamwor.com/en/countries/new-zealand
+68,Ecuador,EC,South America,252728000000,,https://bamwor.com/en/countries/ecuador
+69,Tanzania,TZ,Africa,246706000000,,https://bamwor.com/en/countries/tanzania
+70,Ghana,GH,Africa,243124000000,,https://bamwor.com/en/countries/ghana
+71,Guatemala,GT,Central America and Caribbean,232673000000,,https://bamwor.com/en/countries/guatemala
+72,Kuwait,KW,Middle East,225947000000,,https://bamwor.com/en/countries/kuwait
+73,Azerbaijan,AZ,Middle East,225198000000,,https://bamwor.com/en/countries/azerbaijan
+74,Bulgaria,BG,Europe,219645000000,,https://bamwor.com/en/countries/bulgaria
+75,Slovakia,SK,Europe,218762000000,,https://bamwor.com/en/countries/slovakia
+76,Côte d'Ivoire,CI,Africa,215018000000,,https://bamwor.com/en/countries/candocircte-divoire
+77,Oman,OM,Middle East,193591000000,,https://bamwor.com/en/countries/oman
+78,Serbia,RS,Europe,177093000000,,https://bamwor.com/en/countries/serbia
+79,Croatia,HR,Europe,164825000000,,https://bamwor.com/en/countries/croatia
+80,Panama,PA,Central America and Caribbean,164484000000,,https://bamwor.com/en/countries/panama
+81,DRC,CD,Africa,164367000000,,https://bamwor.com/en/countries/drc
+82,Tunisia,TN,Africa,156086000000,,https://bamwor.com/en/countries/tunisia
+83,Nepal,NP,South Asia,149643000000,,https://bamwor.com/en/countries/nepal
+84,Uganda,UG,Africa,144137000000,,https://bamwor.com/en/countries/uganda
+85,Cameroon,CM,Africa,143264000000,,https://bamwor.com/en/countries/cameroon
+86,Puerto Rico,PR,Central America and Caribbean,141344000000,,https://bamwor.com/en/countries/puerto-rico
+87,Costa Rica,CR,Central America and Caribbean,138371000000,,https://bamwor.com/en/countries/costa-rica
+88,Lithuania,LT,Europe,136227000000,,https://bamwor.com/en/countries/lithuania
+89,Turkmenistan,TM,Central Asia,134555000000,,https://bamwor.com/en/countries/turkmenistan
+90,Cambodia,KH,East and Southeast Asia,123676000000,,https://bamwor.com/en/countries/cambodia
+91,Bolivia,BO,South America,122200000000,,https://bamwor.com/en/countries/bolivia
+92,Paraguay,PY,South America,112919000000,,https://bamwor.com/en/countries/paraguay
+93,Venezuela,VE,South America,110943000000,,https://bamwor.com/en/countries/venezuela
+94,Jordan,JO,Middle East,109986000000,,https://bamwor.com/en/countries/jordan
+95,Uruguay,UY,South America,108502000000,,https://bamwor.com/en/countries/uruguay
+96,Slovenia,SI,Europe,103118000000,,https://bamwor.com/en/countries/slovenia
+97,Syria,SY,Middle East,98858000000,,https://bamwor.com/en/countries/syria
+98,Sudan,SD,Africa,94420000000,,https://bamwor.com/en/countries/sudan
+99,Bahrain,BH,Middle East,93937000000,,https://bamwor.com/en/countries/bahrain
+100,Georgia,GE,Middle East,91849000000,,https://bamwor.com/en/countries/georgia
+101,Libya,LY,Africa,90609000000,,https://bamwor.com/en/countries/libya
+102,Luxembourg,LU,Europe,86871000000,,https://bamwor.com/en/countries/luxembourg
+103,Senegal,SN,Africa,83183000000,,https://bamwor.com/en/countries/senegal
+104,Afghanistan,AF,South Asia,82238000000,,https://bamwor.com/en/countries/afghanistan
+105,Cuba,CU,Central America and Caribbean,81165000000,,https://bamwor.com/en/countries/cuba
+106,Zambia,ZM,Africa,79207000000,,https://bamwor.com/en/countries/zambia
+107,Macau,MO,East and Southeast Asia,77524000000,,https://bamwor.com/en/countries/macau
+108,El Salvador,SV,Central America and Caribbean,73961000000,,https://bamwor.com/en/countries/el-salvador
+109,Latvia,LV,Europe,72516000000,,https://bamwor.com/en/countries/latvia
+110,Honduras,HN,Central America and Caribbean,71297000000,,https://bamwor.com/en/countries/honduras
+111,Mali,ML,Africa,71253000000,,https://bamwor.com/en/countries/mali
+112,Laos,LA,East and Southeast Asia,66905000000,,https://bamwor.com/en/countries/laos
+113,Lebanon,LB,Middle East,65415000000,,https://bamwor.com/en/countries/lebanon
+114,Bosnia and Herzegovina,BA,Europe,64641000000,,https://bamwor.com/en/countries/bosnia-and-herzegovina
+115,Armenia,AM,Middle East,60909000000,,https://bamwor.com/en/countries/armenia
+116,Burkina Faso,BF,Africa,60001000000,,https://bamwor.com/en/countries/burkina-faso
+117,Guinea,GN,Africa,59439000000,,https://bamwor.com/en/countries/guinea
+118,Mongolia,MN,East and Southeast Asia,59221000000,,https://bamwor.com/en/countries/mongolia
+119,Guyana,GY,South America,58423000000,,https://bamwor.com/en/countries/guyana
+120,Zimbabwe,ZW,Africa,57391000000,,https://bamwor.com/en/countries/zimbabwe
+121,Estonia,EE,Europe,57001000000,,https://bamwor.com/en/countries/estonia
+122,Benin,BJ,Africa,56424000000,,https://bamwor.com/en/countries/benin
+123,Nicaragua,NI,Central America and Caribbean,52989000000,,https://bamwor.com/en/countries/nicaragua
+124,Madagascar,MG,Africa,52968000000,,https://bamwor.com/en/countries/madagascar
+125,Chad,TD,Africa,52895000000,,https://bamwor.com/en/countries/chad
+126,Mozambique,MZ,Africa,51786000000,,https://bamwor.com/en/countries/mozambique
+127,Albania,AL,Europe,51360000000,,https://bamwor.com/en/countries/albania
+128,Kyrgyzstan,KG,Central Asia,50907000000,,https://bamwor.com/en/countries/kyrgyzstan
+129,Tajikistan,TJ,Central Asia,50370000000,,https://bamwor.com/en/countries/tajikistan
+130,Cyprus,CY,Europe,50055000000,,https://bamwor.com/en/countries/cyprus
+131,Gabon,GA,Africa,48045000000,,https://bamwor.com/en/countries/gabon
+132,Niger,NE,Africa,47921000000,,https://bamwor.com/en/countries/niger
+133,Rwanda,RW,Africa,46543000000,,https://bamwor.com/en/countries/rwanda
+134,Botswana,BW,Africa,45553000000,,https://bamwor.com/en/countries/botswana
+135,Papua New Guinea,PG,East and Southeast Asia,45487000000,,https://bamwor.com/en/countries/papua-new-guinea
+136,North Macedonia,MK,Europe,43844000000,,https://bamwor.com/en/countries/north-macedonia
+137,Trinidad and Tobago,TT,Central America and Caribbean,43362000000,,https://bamwor.com/en/countries/trinidad-and-tobago
+138,Moldova,MD,Europe,39342000000,,https://bamwor.com/en/countries/moldova
+139,Congo (Brazzaville),CG,Africa,39147000000,,https://bamwor.com/en/countries/congo-brazzaville
+140,Brunei,BN,East and Southeast Asia,36640000000,,https://bamwor.com/en/countries/brunei
+141,Malawi,MW,Africa,35425000000,,https://bamwor.com/en/countries/malawi
+142,Malta,MT,Europe,34731000000,,https://bamwor.com/en/countries/malta
+143,Mauritius,MU,Africa,34406000000,,https://bamwor.com/en/countries/mauritius
+144,Mauritania,MR,Africa,33069000000,,https://bamwor.com/en/countries/mauritania
+145,Haiti,HT,Central America and Caribbean,32971000000,,https://bamwor.com/en/countries/haiti
+146,Namibia,NA,Africa,31154000000,,https://bamwor.com/en/countries/namibia
+147,Equatorial Guinea,GQ,Africa,29248000000,,https://bamwor.com/en/countries/equatorial-guinea
+148,Jamaica,JM,Central America and Caribbean,29130000000,,https://bamwor.com/en/countries/jamaica
+149,Togo,TG,Africa,27115000000,,https://bamwor.com/en/countries/togo
+150,Somalia,SO,Africa,26770000000,,https://bamwor.com/en/countries/somalia
+151,Sierra Leone,SL,Africa,26728000000,,https://bamwor.com/en/countries/sierra-leone
+152,Iceland,IS,Europe,26561000000,,https://bamwor.com/en/countries/iceland
+153,Kosovo,XK,Europe,25019000000,,https://bamwor.com/en/countries/kosovo
+154,"Gaza, Gaza Strip",PS,Middle East,20339000000,,https://bamwor.com/en/countries/gaza-gaza-strip
+155,West Bank,PS,Middle East,20339000000,,https://bamwor.com/en/countries/west-bank
+156,Yemen,YE,Middle East,18719000000,,https://bamwor.com/en/countries/yemen
+157,Montenegro,ME,Europe,17375000000,,https://bamwor.com/en/countries/montenegro
+158,North Korea,KP,East and Southeast Asia,15416000000,,https://bamwor.com/en/countries/north-korea
+159,The Bahamas,BS,Central America and Caribbean,14544000000,,https://bamwor.com/en/countries/the-bahamas
+160,Fiji,FJ,Australia-Oceania,13100000000,,https://bamwor.com/en/countries/fiji
+161,Eswatini,SZ,Africa,12885000000,,https://bamwor.com/en/countries/eswatini
+162,Maldives,MV,South Asia,12325000000,,https://bamwor.com/en/countries/maldives
+163,Suriname,SR,South America,12316000000,,https://bamwor.com/en/countries/suriname
+164,Burundi,BI,Africa,11739000000,,https://bamwor.com/en/countries/burundi
+165,Bhutan,BT,South Asia,11517000000,,https://bamwor.com/en/countries/bhutan
+166,Liberia,LR,Africa,9308000000,,https://bamwor.com/en/countries/liberia
+167,Monaco,MC,Europe,8924000000,,https://bamwor.com/en/countries/monaco
+168,New Caledonia,NC,Australia-Oceania,8469000000,,https://bamwor.com/en/countries/new-caledonia
+169,The Gambia,GM,Africa,8365000000,,https://bamwor.com/en/countries/the-gambia
+170,Djibouti,DJ,Africa,7995000000,,https://bamwor.com/en/countries/djibouti
+171,Liechtenstein,LI,Europe,7172000000,,https://bamwor.com/en/countries/liechtenstein
+172,Bermuda,BM,North America,6808000000,,https://bamwor.com/en/countries/bermuda
+173,South Sudan,SS,Africa,6752000000,,https://bamwor.com/en/countries/south-sudan
+174,Lesotho,LS,Africa,6166000000,,https://bamwor.com/en/countries/lesotho
+175,French Polynesia,PF,Australia-Oceania,6007000000,,https://bamwor.com/en/countries/french-polynesia
+176,Central African Republic,CF,Africa,5926000000,,https://bamwor.com/en/countries/central-african-republic
+177,Guinea-Bissau,GW,Africa,5912000000,,https://bamwor.com/en/countries/guinea-bissau
+178,Timor-Leste,TL,East and Southeast Asia,5863000000,,https://bamwor.com/en/countries/timor-leste
+179,Cayman Islands,KY,Central America and Caribbean,5705000000,,https://bamwor.com/en/countries/cayman-islands
+180,Barbados,BB,Central America and Caribbean,5634000000,,https://bamwor.com/en/countries/barbados
+181,Jersey,JE,Europe,5569000000,,https://bamwor.com/en/countries/jersey
+182,Belize,BZ,Central America and Caribbean,5538000000,,https://bamwor.com/en/countries/belize
+183,Andorra,AD,Europe,5402000000,,https://bamwor.com/en/countries/andorra
+184,Cabo Verde,CV,Africa,5200000000,,https://bamwor.com/en/countries/cabo-verde
+185,Virgin Islands,VI,Central America and Caribbean,4900000000,,https://bamwor.com/en/countries/virgin-islands
+186,Saint Lucia,LC,Central America and Caribbean,4359000000,,https://bamwor.com/en/countries/saint-lucia
+187,Aruba,AW,Central America and Caribbean,4350000000,,https://bamwor.com/en/countries/aruba
+188,Curacao,CW,Central America and Caribbean,4312000000,,https://bamwor.com/en/countries/curacao
+189,Greenland,GL,North America,4040000000,,https://bamwor.com/en/countries/greenland
+190,Faroe Islands,FO,Europe,3834000000,,https://bamwor.com/en/countries/faroe-islands
+191,Seychelles,SC,Africa,3549000000,,https://bamwor.com/en/countries/seychelles
+192,Comoros,KM,Africa,3092000000,,https://bamwor.com/en/countries/comoros
+193,Antigua and Barbuda,AG,Central America and Caribbean,2772000000,,https://bamwor.com/en/countries/antigua-and-barbuda
+194,Eritrea,ER,Africa,2534000000,,https://bamwor.com/en/countries/eritrea
+195,San Marino,SM,Europe,2393000000,,https://bamwor.com/en/countries/san-marino
+196,Grenada,GD,Central America and Caribbean,2080000000,,https://bamwor.com/en/countries/grenada
+197,Solomon Islands,SB,Australia-Oceania,2070000000,,https://bamwor.com/en/countries/solomon-islands
+198,Sint Maarten,SX,Central America and Caribbean,1986000000,,https://bamwor.com/en/countries/sint-maarten
+199,Saint Vincent and the Grenadines,VC,Central America and Caribbean,1883000000,,https://bamwor.com/en/countries/saint-vincent-and-the-grenadines
+200,British Virgin Islands,VG,Central America and Caribbean,1634000000,,https://bamwor.com/en/countries/british-virgin-islands
+201,Turks and Caicos Islands,TC,Central America and Caribbean,1554000000,,https://bamwor.com/en/countries/turks-and-caicos-islands
+202,Samoa,WS,Australia-Oceania,1503000000,,https://bamwor.com/en/countries/samoa
+203,Saint Kitts and Nevis,KN,Central America and Caribbean,1465000000,,https://bamwor.com/en/countries/saint-kitts-and-nevis
+204,Sao Tome and Principe,ST,Africa,1291000000,,https://bamwor.com/en/countries/sao-tome-and-principe
+205,Northern Mariana Islands,MP,Australia-Oceania,1242000000,,https://bamwor.com/en/countries/northern-mariana-islands
+206,Dominica,DM,Central America and Caribbean,1241000000,,https://bamwor.com/en/countries/dominica
+207,Vanuatu,VU,Australia-Oceania,1039000000,,https://bamwor.com/en/countries/vanuatu
+208,Tonga,TO,Australia-Oceania,740082000,,https://bamwor.com/en/countries/tonga
+209,American Samoa,AS,Australia-Oceania,658000000,,https://bamwor.com/en/countries/american-samoa
+210,Kiribati,KI,Australia-Oceania,438143000,,https://bamwor.com/en/countries/kiribati
+211,Federated States of Micronesia,FM,Australia-Oceania,432679000,,https://bamwor.com/en/countries/federated-states-of-micronesia
+212,Cook Islands,CK,Australia-Oceania,401155000,,https://bamwor.com/en/countries/cook-islands
+213,Anguilla,AI,Central America and Caribbean,362499000,,https://bamwor.com/en/countries/anguilla
+214,Palau,PW,Australia-Oceania,280025000,,https://bamwor.com/en/countries/palau
+215,Marshall Islands,MH,Australia-Oceania,270809000,,https://bamwor.com/en/countries/marshall-islands
+216,Saint Pierre and Miquelon,PM,North America,261300000,,https://bamwor.com/en/countries/saint-pierre-and-miquelon
+217,Nauru,NR,Australia-Oceania,150581000,,https://bamwor.com/en/countries/nauru
+218,Montserrat,MS,Central America and Caribbean,89254000,,https://bamwor.com/en/countries/montserrat
+219,Tuvalu,TV,Australia-Oceania,57055000,,https://bamwor.com/en/countries/tuvalu
+220,Niue,NU,Australia-Oceania,18700000,,https://bamwor.com/en/countries/niue
+221,Tokelau,TK,Australia-Oceania,7711583,,https://bamwor.com/en/countries/tokelau
