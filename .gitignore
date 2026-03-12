@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*~
+
+# Temp / cache
+*.tmp
+.cache/
+__pycache__/
+
+# Internal / premium data — NEVER publish
+global_cities_full/
+*.parquet
+*.sql
+*.db
+*.sqlite
+
+# Node
+node_modules/
